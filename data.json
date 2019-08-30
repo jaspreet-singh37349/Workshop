@@ -1,0 +1,32 @@
+{
+    "name": "Jaspreet Singh",
+    "title": "Android App Developer and Data Scientist",
+    "intro": "Some introduction of yours and it can be as much as large",
+    "skills": [{
+            "title": "c",
+            "rating": "95"
+        },
+        {
+            "title": "Java",
+            "rating": "90"
+        },
+        {
+            "title": "c++",
+            "rating": "90"
+        },{
+            "title": "python",
+            "rating": "70"
+        },{
+            "title": "SQL",
+            "rating": "70"
+        },{
+            "title": "XML",
+            "rating": "75"
+        }
+    ],
+    "contact": {
+        "location": "Chitkara University",
+        "phone": "7355555479",
+        "email": "jaspreet.singh37349@gmail.com"
+    }
+}
